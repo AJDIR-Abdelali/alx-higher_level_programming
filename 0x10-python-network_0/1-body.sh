@@ -1,3 +1,3 @@
 #!/bin/bash
-# Displays the body of the response of a curl request
+#get a body of a respons and siaply the status line only
 curl -sL "$1"
