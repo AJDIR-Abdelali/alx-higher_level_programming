@@ -10,6 +10,3 @@
 5. Loripsum 
 6. How many completed? 
 
-
-
-
